@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Norbert 👋
+---
+
+#### I'm a WordPress Developer based in Poznan, Poland.
+
+- 🔭 I’m currently working on my engineering project 🙈
+- 🌱 I’m currently learning Laravel
 
 <!--
 **NorBat93/NorBat93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
